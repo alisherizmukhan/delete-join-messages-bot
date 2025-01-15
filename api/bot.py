@@ -5,7 +5,7 @@ import telegram
 app = Flask(__name__)
 
 # Telegram bot token
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TELEGRAM_BOT_TOKEN = "7621067756:AAGBJl_QSppcyQJx6hL88WnUcVBQvxNGlU0"
 
 # Initialize the Telegram bot
 bot = telegram.Bot(token=TELEGRAM_BOT_TOKEN)
